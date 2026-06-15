@@ -1,0 +1,5 @@
+Model,Params_M,Strategy,Weighted_F1,Negative_F1,Neutral_F1,Positive_F1,Accuracy,Compute_cost,Training_needed
+FinBERT Zero-shot,110,Zero-shot,0.7187,0.6,0.79,0.58,0.71,Low,No
+Mistral-7B Zero-shot,7000,Zero-shot,0.6862,0.62,0.71,0.68,0.68,Very High,No
+Mistral-7B Few-shot,7000,Few-shot (3),0.7422,0.66,0.79,0.66,0.74,Very High,No
+FinBERT Fine-tuned,110,Fine-tuned,0.8793,0.78,0.92,0.83,0.88,Low,Yes
