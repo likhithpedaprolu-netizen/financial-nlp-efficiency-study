@@ -50,7 +50,7 @@ Fine-tuned FinBERT (110M) achieves **F1 0.8793**, outperforming Mistral-7B zero-
 
 ---
 
-## Iportant Bullets
+## Important Bullets
 
 ### 
 > Conducted empirical NLP efficiency study comparing fine-tuned FinBERT (110M) vs Mistral-7B (7B) zero-shot and few-shot on 9,543 financial sentiment samples. Fine-tuned model achieved F1 0.8793 vs 0.6862 zero-shot — **19.3 point improvement at 64x less compute**. Systematic 4-model × 3-strategy benchmark open-sourced on GitHub.
