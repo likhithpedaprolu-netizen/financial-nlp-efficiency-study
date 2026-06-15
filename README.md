@@ -15,7 +15,7 @@ Fine-tuned FinBERT (110M) achieves **F1 0.8793**, outperforming Mistral-7B zero-
 | Mistral-7B | 7B | Zero-shot | 0.6862 | 0.62 | 0.71 | 0.68 | 68% |
 | Mistral-7B | 7B | Few-shot (3) | 0.7422 | 0.66 | 0.79 | 0.66 | 74% |
 | **FinBERT** | **110M** | **Fine-tuned** | **0.8793** | **0.78** | **0.92** | **0.83** | **88%** |
-
+![Results Comparison](results_comparison.png)
 ---
 
 ## Three Research Findings
